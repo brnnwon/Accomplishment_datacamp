@@ -1,26 +1,26 @@
 # Certificate Portfolio
 
-This repository contains my completed DataCamp courses and certificates.
+This repository contains my completed DataCamp courses.
 
 ## List of Certificates
 
-### Data Science
+### Python Programming
 
-1. [Introduction to Python](./Introduction_to_Python_Certificate.pdf)
-   - Learned the basics of Python programming, including data types, control structures, functions, and libraries like NumPy and pandas.
+1. [Python Programming](./Python_Programming/)
+- This directory contains certificates for courses related to Python programming on DataCamp. The courses include Introduction to Python, Intermediate Python, Writing Functions in Python, and more.
 
-2. [Intermediate Python](./Intermediate_Python_Certificate.pdf)
-   - Expanded knowledge on Python with advanced concepts such as list comprehensions, lambda functions, and error handling.
+### Data Science and Machine Learning
+2. [Data Science and Machine Learning](./Data_Science_and_Machine_Learning/)
+- This directory contains certificates for courses related to using Python for data science and machine learning tasks. The courses include Cleaning Data in Python, Data Visualization with Matplotlib and Seaborn, Machine Learning with Scikit-Learn, Tree-Based Models, Introduction to Deep Learning with Keras, and more.
 
-3. [Machine Learning with scikit-learn](./Machine_Learning_with_scikit_learn_Certificate.pdf)
-   - Covered fundamental machine learning techniques, including regression, classification, and clustering using scikit-learn.
+### SQL
+3. [SQL](./SQL/)
+- This directory contains certificates for courses related to SQL. The courses include Database Design, Intermediate SQL Server, SQL for Joining Data, and more.
 
-### Data Analysis
+### Tableau
+4. [Tableau](./Tableau/)
+- This directory contains certificates for courses related to Tableau. The courses include Analyzing Data in Tableau, Creating Dashboards in Tableau, and more.
 
-1. [Data Analysis with pandas](./Data_Analysis_with_pandas_Certificate.pdf)
-   - Focused on data manipulation and analysis using pandas, covering dataframes, series, and various data operations.
-
-2. [Data Visualization with matplotlib](./Data_Visualization_with_matplotlib_Certificate.pdf)
-   - Learned to create visualizations using matplotlib, including plots, charts, and histograms to represent data insights.
-
-... (continue listing all certificates)
+### Other
+[Other](./Other/)
+- This directory contains certificates for various other tools and technologies. The courses include GitHub Concepts, Introduction to Airflow in Python, Introduction to Docker, Introduction to R, and Introduction to Shell.
